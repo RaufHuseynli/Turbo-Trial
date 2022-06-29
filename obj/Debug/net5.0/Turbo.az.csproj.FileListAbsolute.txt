@@ -1,0 +1,16 @@
+C:\Users\Rauf\source\repos\Turbo.az\Turbo.az\bin\Debug\net5.0\Turbo.az.exe
+C:\Users\Rauf\source\repos\Turbo.az\Turbo.az\bin\Debug\net5.0\Turbo.az.deps.json
+C:\Users\Rauf\source\repos\Turbo.az\Turbo.az\bin\Debug\net5.0\Turbo.az.runtimeconfig.json
+C:\Users\Rauf\source\repos\Turbo.az\Turbo.az\bin\Debug\net5.0\Turbo.az.runtimeconfig.dev.json
+C:\Users\Rauf\source\repos\Turbo.az\Turbo.az\bin\Debug\net5.0\Turbo.az.dll
+C:\Users\Rauf\source\repos\Turbo.az\Turbo.az\bin\Debug\net5.0\ref\Turbo.az.dll
+C:\Users\Rauf\source\repos\Turbo.az\Turbo.az\bin\Debug\net5.0\Turbo.az.pdb
+C:\Users\Rauf\source\repos\Turbo.az\Turbo.az\obj\Debug\net5.0\Turbo.az.csproj.AssemblyReference.cache
+C:\Users\Rauf\source\repos\Turbo.az\Turbo.az\obj\Debug\net5.0\Turbo.az.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rauf\source\repos\Turbo.az\Turbo.az\obj\Debug\net5.0\Turbo.az.AssemblyInfoInputs.cache
+C:\Users\Rauf\source\repos\Turbo.az\Turbo.az\obj\Debug\net5.0\Turbo.az.AssemblyInfo.cs
+C:\Users\Rauf\source\repos\Turbo.az\Turbo.az\obj\Debug\net5.0\Turbo.az.csproj.CoreCompileInputs.cache
+C:\Users\Rauf\source\repos\Turbo.az\Turbo.az\obj\Debug\net5.0\Turbo.az.dll
+C:\Users\Rauf\source\repos\Turbo.az\Turbo.az\obj\Debug\net5.0\ref\Turbo.az.dll
+C:\Users\Rauf\source\repos\Turbo.az\Turbo.az\obj\Debug\net5.0\Turbo.az.pdb
+C:\Users\Rauf\source\repos\Turbo.az\Turbo.az\obj\Debug\net5.0\Turbo.az.genruntimeconfig.cache
