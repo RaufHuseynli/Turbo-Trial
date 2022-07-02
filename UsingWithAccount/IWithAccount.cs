@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Turbo.az
 {
-    interface IWithAccount
+    class IWithAccount
     {
         public int Id { get; set; }
 

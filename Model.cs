@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Turbo.az
 {
-    class Model: Marka
+    class Model
     {
         public string Id  { get; set; }
         public string Description { get; set; }

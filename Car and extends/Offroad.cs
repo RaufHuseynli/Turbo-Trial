@@ -2,14 +2,20 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
+using System.Threading.Tasks; 
 
 namespace Turbo.az.Car_and_extends
 {
-    interface Offroad: Car
+    class Offroad: Car
     {
-        void LargeTyreSystem();
-        void FlexibleSuspension();
-        void Carterpillar();
+        void LargeTyreSystem()
+        { 
+        } 
+        void FlexibleSuspension()
+        { 
+        } 
+        void Carterpillar() 
+        { 
+        } 
     }
 }

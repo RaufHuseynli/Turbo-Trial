@@ -9,7 +9,7 @@ namespace Turbo.az
     class CarShowroom 
     { 
       public int Id { get; set; }
-        Announcement ID { get; set; }
-        Announcement announcement { get; set; }
+        public int AnnouncementId { get; set; }
+        Announcement Announcement { get; set; }
     }
 }

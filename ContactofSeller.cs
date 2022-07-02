@@ -6,14 +6,16 @@ using System.Threading.Tasks;
 
 namespace Turbo.az
 {
-    class ContactofSeller
+    public class ContactofSeller
     {
-       Announcement Id { get; set; }
-       public string Name { get; set; }
-       public string Country { get; set; }
-       public string Email { get; set; }
-       public string ContactNumber { get; set; }
-
+        public int Id { get; set; }
+        public int AnnouncementId { get; set; }
+        public Announcement Announcement { get; set; }
+        public string Name { get; set; }
+        public string Country { get; set; }
+        public string Email { get; set; }
+        public string Password { get; set; }
+        public string ContactNumber { get; set; }
 
 
     }

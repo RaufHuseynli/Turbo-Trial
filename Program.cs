@@ -1,4 +1,6 @@
 ﻿using System;
+using Turbo.az.Car_and_extends;
+using Turbo.az.Manager;
 
 namespace Turbo.az
 {
@@ -6,12 +8,13 @@ namespace Turbo.az
     {
         static void Main(string[] args)
         {
-            Console.OutputEncoding = System.Text.Encoding.Unicode;
-            menu();
+
+            AnnouncementManager nw = new AnnouncementManager();
+            AnnouncementManager.AnnounceManager();
+
 
         }
-
-        private static void menu()
+        public static void menu()
         {
             Console.WriteLine("1.Markanizi qeyd ediniz : ");
             Console.WriteLine("2. Modelinizi qeyd ediniz : ");
@@ -26,13 +29,11 @@ namespace Turbo.az
             Console.WriteLine("11.Suretler qutusunu qeyd ediniz: ");
             Console.WriteLine("12. Qiymetini qeyd ediniz: ");
             int secim = int.Parse(Console.ReadLine());
-            switch (secim)
+            if(secim == 1)
             {
-                case 1:
-                    // Burda gostermesi ucun neler yazmali oldugumu bilmirem..
-                default:
-                    break;
+
             }
+
         }
     }
 }

@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace Turbo.az.Car_and_extends
 {
-    interface Truck:Car
+    public class Truck:Car
     {
-        void SuspensionDumping();
-        void TyreStifness();
-        void BodyMass();
+        void SuspensionDumping(){}
+        void TyreStifness(){}
+        void BodyMass(){}
     }
 }

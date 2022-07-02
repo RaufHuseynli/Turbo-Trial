@@ -8,7 +8,6 @@ namespace Turbo.az.UsingWithAccount
 {
     class LoginWithContactNumber: IWithAccount
     {
-        public int Id { get; set; }
         public int ContactNumber { get; set; }
        
     }

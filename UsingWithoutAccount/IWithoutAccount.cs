@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Turbo.az
 {
-    public abstract class IWithoutAccount
+    class IWithoutAccount 
     {
         public int Id { get; set; }
     }

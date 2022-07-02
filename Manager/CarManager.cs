@@ -6,13 +6,17 @@ using System.Threading.Tasks;
 
 namespace Turbo.az.Manager
 {
-    public static void CarManager()
+    public class CarManager
     {
-        Car car = new Car();
+        public static void carManager()
+        {
+         Car car = new Car();
         Console.WriteLine(" Neqliyyat vasitenin markasini qeyd ediniz :  ");
         car.Marka = Console.ReadLine();
         Console.WriteLine("Neqliyyat vasitenin modelini qeyd edin : ");
         car.Model = Console.ReadLine();
+        }
+      
 
     }
 }

@@ -6,9 +6,13 @@ using System.Threading.Tasks;
 
 namespace Turbo.az.Car_and_extends
 {
-    interface  Tractor: Car
+ public class Tractor: Car
     {
-        void Whelled();
-        void Crawler();
+     public   void Whelled() 
+        { 
+        }
+        public void Crawler()
+        { 
+        }
     }
 }

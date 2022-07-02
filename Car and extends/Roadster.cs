@@ -6,9 +6,12 @@ using System.Threading.Tasks;
 
 namespace Turbo.az.Car_and_extends
 {
-   interface  Roadster: Car
+   class  Roadster: Car
     {
-        void OpenTop();
+        void OpenTop() 
+        {
+            Console.WriteLine("");
+        }
 
     }
 }

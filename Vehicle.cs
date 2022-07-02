@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Turbo.az
 {
-    interface Vehicle
+   public class Vehicle
     {
         public string Id { get; set; }
         public string  VinCode { get; set; }

@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Turbo.az
 {
-    class Motocycle //Vehicle'a toremelimi?
+    class Motocycle: Vehicle
     {
-        public string Id { get; set; }
+    
         public string Marka { get; set; }
         public string Model { get; set; }
         public string Country { get; set; }

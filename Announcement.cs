@@ -6,11 +6,15 @@ using System.Threading.Tasks;
 
 namespace Turbo.az
 {
-    class Announcement
+   public class Announcement
     {
         public int Id { get; set; }
         public int VehicleId { get; set; }
+        public Vehicle Vehicle { get; set; }
         public int CarId { get; set; }
-            //Create relation between NewAnnouncement with VehicleId and CarId
+        public Car Car { get; set; }
+        public int CreatedByUserId { get; set; }
+        public ContactofSeller CreatedByUser { get; set; }
+
     }
 }
