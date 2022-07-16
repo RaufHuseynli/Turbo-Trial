@@ -13,7 +13,7 @@ namespace Turbo.az.Manager
         public static void AnnounceManager()
         {
             Announcement announcement = new Announcement();
-            Console.Write("Elan tipini seciniz: Telefon nomresi ile(1), Biznes Hesabi ile(2): ");
+            Console.Write("Account ucun tip seciniz: Telefon nomresi ile(1), Biznes Hesabi ile(2): ");
             int choosen = Convert.ToInt32(Console.ReadLine());
            
 
